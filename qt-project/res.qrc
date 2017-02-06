@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/germany_24.png</file>
+        <file>images/poland_24.png</file>
+        <file>images/united_kingdom_24.png</file>
+        <file>images/united_kingdom_32.png</file>
+        <file>images/poland_32.png</file>
+        <file>images/germany_32.png</file>
+    </qresource>
+</RCC>
