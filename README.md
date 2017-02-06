@@ -8,4 +8,4 @@ C with wiringPi library, C++ with Qt, RaspberryPi, cross-compilation.
 
 # Video 
 
-soon... ;-)
+https://youtu.be/DNHHEwHQQEc
